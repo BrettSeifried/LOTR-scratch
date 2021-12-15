@@ -1,7 +1,7 @@
 import './App.css';
 import { BrowserRouter, NavLink, Route, Switch } from 'react-router-dom';
 import Characters from './views/Characters/CharactersList';
-import Films from './views/Films/FilmList';
+import Films from './views/Films/Films';
 import Books from './views/Books/BookList';
 
 function App() {
